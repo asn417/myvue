@@ -1,0 +1,6 @@
+/* 星号表示对页面所有元素都有效 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
